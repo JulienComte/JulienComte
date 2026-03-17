@@ -1,10 +1,10 @@
-#Julien Comte
+# Julien Comte
 
-#Student @EPFL in Computer Science (BA1)
+### Computer Science Student @ EPFL (BA1)
 
-#Projects :
+### Projects 
 
-*2D Grid Game Development in Java:
+#### [Java-Grid-Game](https://github.com/JulienComte/Java-Grid-Game)
 
-Developped a video game with a partner using Java and a game engine, allowing us to build 2D games, in particular grid games
+* Developped a video game with a partner using Java and a game engine, allowing us to build 2D games, in particular grid games
 
