@@ -1,7 +1,5 @@
 # Julien Comte
 
-### Computer Science Student @ EPFL (BA1)
-
 ### Projects 
 
 #### [Java-Grid-Game](https://github.com/JulienComte/Java-Grid-Game)
